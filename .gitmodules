@@ -1,0 +1,15 @@
+[submodule "src/pynat"]
+	path = src/pynat
+	url = https://github.com/EveryWAN-M/pynat.git
+[submodule "src/srv6pm-delay-measurement"]
+	path = src/srv6pm-delay-measurement
+	url = https://github.com/EveryWAN-M/srv6pm-delay-measurement.git
+[submodule "src/srv6-sdn-authentication"]
+	path = src/srv6-sdn-authentication
+	url = https://github.com/EveryWAN-M/srv6-sdn-authentication.git
+[submodule "src/srv6-sdn-data-plane"]
+	path = src/srv6-sdn-data-plane
+	url = https://github.com/EveryWAN-M/srv6-sdn-data-plane.git
+[submodule "src/srv6-sdn-proto"]
+	path = src/srv6-sdn-proto
+	url = https://github.com/EveryWAN-M/srv6-sdn-proto.git
